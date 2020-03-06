@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         //Hola chicos nadie cambie esto
-        System.out.println("Hello Cami!");
+        System.out.println("Hello Fer!");
 
         System.out.println("Ingrese su operacion");
         //TODO agregar scanner que lea la operacion
