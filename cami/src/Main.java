@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Ingrese su operacion");
         //TODO agregar scanner que lea la operacion
-        String option = "sumar";
+        String option = "restar";
         while(!"salir".equals(option)){
             switch (option) {
                 case "sumar":
