@@ -1,3 +1,2 @@
-# proyrcto-cami
-una locuraaaaa!
-jojojo
+# proyecto-cami
+Primer proyecto
